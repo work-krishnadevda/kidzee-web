@@ -1,0 +1,17 @@
+{
+  "name": "Kidzee jeetshree, Ratlam",
+  "short_name": "Kidzee jeetshree",
+  "description": "Kidzee jeetshree preschool, Ratlam — Playgroup, Nursery, Jr. KG and Sr. KG admissions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
