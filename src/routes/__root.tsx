@@ -6,6 +6,8 @@ import {
   HeadContent,
   Scripts,
 } from "@tanstack/react-router";
+
+
 import { useEffect, lazy, Suspense, type ReactNode } from "react";
 import logo from "@/assets/logo.png";
 import appCss from "../styles.css?url";
